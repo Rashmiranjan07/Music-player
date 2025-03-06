@@ -3,7 +3,7 @@ markdown
 
 A modern web-based music player integrating with Spotify's API, featuring an elegant aqua-themed design and responsive grid layout.
 
-![Music Player Preview](https://via.placeholder.com/800x600/00C1D4/FFFFFF?text=Music+Player+Preview)
+
 
 ## Features ✨
 - Spotify API integration for real music streaming
@@ -57,22 +57,9 @@ css
 
 ## screenshot 📸 
  ## desktop view 🖥
-![Screenshot 2025-02-20 034549](https://github.com/user-attachments/assets/44114ca2-c4a1-4293-af01-c1bb6394ed8d)
-
-![Screenshot 2025-02-20 034610](https://github.com/user-attachments/assets/b296ff79-3789-4b74-9e19-1ed075015fd8)
-
-![Screenshot 2025-02-20 034635](https://github.com/user-attachments/assets/5eaf2444-633c-4278-b688-bc3779ddf9a5)
-
-![Screenshot 2025-02-20 034659](https://github.com/user-attachments/assets/505511dc-e09e-4b59-82ed-9fa06596c838)
 
  ## mobile view 📱 
-![WhatsApp Image 2025-02-20 at 03 44 59_e3d6ac32](https://github.com/user-attachments/assets/803263cd-8525-429a-85fd-699dfd9a5a35)
 
-![WhatsApp Image 2025-02-20 at 03 44 58_75b5986b](https://github.com/user-attachments/assets/440687dc-2e2a-4e69-a94a-16cc80c8dd65)
-
-![WhatsApp Image 2025-02-20 at 03 44 59_741e1d99](https://github.com/user-attachments/assets/96ed8c7b-05fc-4ba3-a5bf-e01325fad7e5)
-
-![WhatsApp Image 2025-02-20 at 03 44 58_9ac99f12](https://github.com/user-attachments/assets/237fcae7-07e0-4943-a34d-0d193ab7dbee)
 
 ## Important Notes ⚠
 1. Requires valid Spotify API credentials
@@ -108,4 +95,4 @@ To complete the setup:
 2. Add real screenshots
 3. Create a LICENSE file
 4. Update the credits section with your actual profile links
-5.
+  
