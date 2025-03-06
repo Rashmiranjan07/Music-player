@@ -17,7 +17,7 @@ A modern web-based music player integrating with Spotify's API, featuring an ele
 ## Installation 💻
 1. Clone the repository:
 bash
-git clone https://github.com/Jyoti-ranjan-Sahoo-45/spotify-music-player.git
+git clone 
 
 
 2. Navigate to project directory:
