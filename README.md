@@ -73,7 +73,7 @@ css
 - **API Provider**: [Spotify Developer](https://developer.spotify.com)
 
 ## live view
-https://music-player-five-blue.vercel.app/
+
 
 
 ## License 📄
