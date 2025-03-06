@@ -63,11 +63,14 @@ css
 
 
  ## mobile view 📱 
-![Screenshot_20250306-163039 Chrome](https://github.com/user-attachments/assets/b0bc87e8-f4f4-4331-832f-f5d7ceed09b6)
-
+![Screenshot_20250306-163039 Chrome](https://github.com/user-attachments/assets/fa49e260-8ec0-4083-8f64-cd69a9110a04)
+![Screenshot_20250306-163046 Chrome](https://github.com/user-attachments/assets/eaca3bae-e584-458c-b305-ac11a681e69c)
+[Screenshot_20250306-163400 Chrome](https://github.com/user-attachments/assets/061e4a23-2fc1-4e94-b1f9-485edb0500e7)
+![Screenshot_20250306-163422 Chrome](https://github.com/user-attachments/assets/da9a4ae5-9f1b-4d6b-868d-a8c625a54071)
 
 ## Important Notes ⚠
-1. Requires valid Spotify API credentials
+1. Requires valid Spotify API credent!
+ials
 2. Client credentials should not be exposed in production
 3. Uses Spotify's client credentials flow (non-user specific)
 4. Limited to Spotify's API restrictions for non-authenticated users
