@@ -56,6 +56,9 @@ css
 }
 
 ## screenshot 📸 
+
+![image](https://github.com/user-attachments/assets/d6faafb5-c6e2-47dd-8363-898b4f69d370)
+
  ## desktop view 🖥
 
  ## mobile view 📱 
