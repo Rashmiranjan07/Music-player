@@ -56,11 +56,11 @@ css
 }
 
 ## screenshot 📸 
-
+ ## desktop view 🖥
 ![image](https://github.com/user-attachments/assets/d6faafb5-c6e2-47dd-8363-898b4f69d370)
 ![Screenshot 2025-03-06 162735](https://github.com/user-attachments/assets/8e911a39-bf43-4869-b868-be78c3f00a78)
+![Screenshot 2025-03-06 162800](https://github.com/user-attachments/assets/dec6acf4-8477-4e3d-8697-00284f0098a7)
 
- ## desktop view 🖥
 
  ## mobile view 📱 
 ![Screenshot_20250306-163039 Chrome](https://github.com/user-attachments/assets/b0bc87e8-f4f4-4331-832f-f5d7ceed09b6)
