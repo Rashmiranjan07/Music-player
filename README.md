@@ -75,26 +75,11 @@ css
 4. Limited to Spotify's API restrictions for non-authenticated users
 
 ## Credits 🙌
-- **Developer**: [Rashmiranjan shaw]()
+- **Developer**: [Rashmiranjan shaw](https://github.com/Rashmiranjan07)
 - **UI Design**: Custom implementation
 - **API Provider**: [Spotify Developer](https://developer.spotify.com)
 
 ## live view
 https://67c91d5194bf358a74facebd--dapper-baklava-9c94cf.netlify.app/
 
-This README includes:
 
-1. Visual hierarchy with emoji icons
-2. Clear installation and usage instructions
-3. Customization guidelines
-4. Security considerations
-5. Responsive design documentation
-6. Proper attribution and licensing
-7. Technology stack overview
-
-To complete the setup:
-1. Replace placeholder URLs with actual repository links
-2. Add real screenshots
-3. Create a LICENSE file
-4. Update the credits section with your actual profile links
-  
