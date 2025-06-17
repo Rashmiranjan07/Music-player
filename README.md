@@ -76,10 +76,10 @@ css
 
 ## Credits 🙌
 - **Developer**: [Rashmiranjan shaw](https://github.com/Rashmiranjan07)
-- **UI Design**: Custom implementation
+- **Project Link**: [Health-Hub](https://dapper-baklava-9c94cf.netlify.app/)
 - **API Provider**: [Spotify Developer](https://developer.spotify.com)
 
-## live view
-https://67c91d5194bf358a74facebd--dapper-baklava-9c94cf.netlify.app/
+
+
 
 
