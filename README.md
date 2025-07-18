@@ -5,13 +5,13 @@ A modern web-based music player integrating with Spotify's API, featuring an ele
 
 
 ## Features ✨
-- Spotify API integration for real music streaming
-- Search functionality across Spotify's library
-- Top tracks display with popularity sorting
-- Interactive player with album art display
-- Responsive grid layout for tracks
-- Modern aqua color scheme with smooth animations
-- Developer attribution card with hover effects
+- Spotify API integration for real music streaming.
+- Search functionality across Spotify's library.
+- Top tracks display with popularity sorting.
+- Interactive player with album art display.
+- Responsive grid layout for tracks.
+- Modern aqua color scheme with smooth animations.
+- Developer attribution card with hover effects.
 
 ## Installation 💻
 1. Clone the repository:
@@ -33,10 +33,10 @@ const clientSecret = 'YOUR_CLIENT_SECRET';
 
 
 ## Usage 🚀
-1. Click "Connect to Spotify" to initialize API connection
-2. Search for songs using the search bar
-3. Click any track to start playback
-4. Use the embedded player controls
+1. Click "Connect to Spotify" to initialize API connection.
+2. Search for songs using the search bar.
+3. Click any track to start playback.
+4. Use the embedded player controls.
 
 ## Tech Stack 🔧
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
