@@ -78,5 +78,3 @@ css
 - **Project Link**: [Music player](https://dapper-baklava-9c94cf.netlify.app/)
 
 
-
-
