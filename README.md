@@ -76,5 +76,3 @@ css
 - **API Provider**: [Spotify Developer](https://developer.spotify.com)
 - **Project Link**: [Music player](https://dapper-baklava-9c94cf.netlify.app/)
 
-
-
