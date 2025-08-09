@@ -2,7 +2,6 @@
 
 A modern web-based music player integrating with Spotify's API, featuring an elegant aqua-themed design and responsive grid layout.
 
-
 ## Features ✨
 - Spotify API integration for real music streaming.
 - Search functionality across Spotify's library.
@@ -76,5 +75,6 @@ css
 - **Developer**: [Rashmiranjan shaw](https://github.com/Rashmiranjan07)
 - **API Provider**: [Spotify Developer](https://developer.spotify.com)
 - **Project Link**: [Music player](https://dapper-baklava-9c94cf.netlify.app/)
+
 
 
