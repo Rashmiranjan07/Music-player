@@ -42,15 +42,6 @@ const clientSecret = 'YOUR_CLIENT_SECRET';
 - **Design System**: CSS Custom Properties
 - **Responsive Layout**: CSS Grid
 
-## Customization 🎨
-Modify the color scheme in `styles.css`:
-css
-:root {
-  --primary-color: #00C1D4;       /* Main brand color */
-  --bg-color: #E0F7FA;            /* Background color */
-  --accent-color: #FF6F61;        /* Accent color */
-  --card-bg: #FFFFFF;             /* Card background */
-}
 
 ## screenshot 📸 
  ## desktop view 🖥
