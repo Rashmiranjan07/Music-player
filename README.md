@@ -14,17 +14,17 @@ A modern web-based music player integrating with Spotify's API, featuring an ele
 ## Installation 💻
 1. Clone the repository:
 bash
-git clone 
+git clone
 
 
-2. Navigate to project directory:
+3. Navigate to project directory:
 bash
 cd spotify-music-player
 
 
-3. Install live server (VS Code extension recommended)
+4. Install live server (VS Code extension recommended)
 
-4. Replace Spotify API credentials in `script.js`:
+5. Replace Spotify API credentials in `script.js`:
 javascript
 const clientId = 'YOUR_CLIENT_ID';
 const clientSecret = 'YOUR_CLIENT_SECRET';
