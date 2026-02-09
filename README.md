@@ -16,7 +16,6 @@ A modern web-based music player integrating with Spotify's API, featuring an ele
 bash
 git clone
 
-
 3. Navigate to project directory:
 bash
 cd spotify-music-player
