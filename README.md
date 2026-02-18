@@ -20,7 +20,6 @@ git clone
 bash
 cd spotify-music-player
 
-
 4. Install live server (VS Code extension recommended)
 
 5. Replace Spotify API credentials in `script.js`:
