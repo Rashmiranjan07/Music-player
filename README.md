@@ -10,6 +10,7 @@ A modern web-based music player integrating with Spotify's API, featuring an ele
 - Responsive grid layout for tracks.
 - Modern aqua color scheme with smooth animations.
 - Developer attribution card with hover effects.
+  
 
 ## Installation 💻
 1. Clone the repository:
